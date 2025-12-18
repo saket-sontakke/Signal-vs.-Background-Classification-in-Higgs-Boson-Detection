@@ -108,6 +108,6 @@
 <br>
 
 > [!NOTE]
-> Check out the detailed project report: https://github.com/saket-sontakke/Signal-vs.-Background-Classification-in-Higgs-Boson-Detection/blob/56a667d8c26b5ecdc83a6b0d4dbc48fccff688b4/Report.pdf
+> Check out the detailed project report: https://github.com/saket-sontakke/Signal-vs.-Background-Classification-in-Higgs-Boson-Detection/blob/bee5b4a2b2287622c18792e2eaa3a590c61c1289/Report.pdf
 
 <br>
