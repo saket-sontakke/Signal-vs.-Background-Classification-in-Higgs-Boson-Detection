@@ -31,6 +31,9 @@
 <img width="938" height="764" alt="image" src="https://github.com/user-attachments/assets/5f65ef4f-8427-410a-8aaa-9b6f13e38d3b" />
 
 <br>
+<br>
 
 > [!NOTE]
 > Check out the detailed project report: https://github.com/saket-sontakke/Signal-vs.-Background-Classification-in-Higgs-Boson-Detection/blob/56a667d8c26b5ecdc83a6b0d4dbc48fccff688b4/Report.pdf
+
+<br>
