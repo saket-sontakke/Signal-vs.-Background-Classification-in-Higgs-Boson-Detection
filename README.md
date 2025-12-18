@@ -4,6 +4,7 @@
 2. HIGGS: https://archive.ics.uci.edu/dataset/280/higgs
 3. SUSY: https://archive.ics.uci.edu/dataset/279/susy
 
+<br>
 
 # Comparative Analysis of Various Algorithms
 
@@ -25,4 +26,7 @@
 | **HEPMASS** | XGBOOST | 0.8762 | 0.95 |
 | **HEPMASS** | NN | 0.8641 | 0.95 |
 
-# Check out the detailed project report: https://github.com/saket-sontakke/Signal-vs.-Background-Classification-in-Higgs-Boson-Detection/blob/56a667d8c26b5ecdc83a6b0d4dbc48fccff688b4/Report.pdf
+<br>
+
+> [!NOTE]
+> Check out the detailed project report: https://github.com/saket-sontakke/Signal-vs.-Background-Classification-in-Higgs-Boson-Detection/blob/56a667d8c26b5ecdc83a6b0d4dbc48fccff688b4/Report.pdf
